@@ -7,7 +7,7 @@ R code and simulated datasets to demonstrate bias due to selection are provided.
 
 DAG 1:
 
-<img src="/dags/DAG1.png" width=30%>
+<img src="/dags/DAG1.png">
 
 DAG 2: 
 
