@@ -8,22 +8,7 @@ R code and simulated datasets to demonstrate bias due to selection are provided
 | Number | DAG |
 | :--- | :--- |
 | 1 | <img src="/dags/DAG1.png" width=30%> |
-**DAG 1**
-
-<img src="/dags/DAG1.png" width=30%>
-
-**DAG 2**
-
-<img src="/dags/DAG2.png" width=40%>
-
-**DAG 3**
-
-<img src="/dags/DAG3.png" width=40%>
-
-**DAG 4**
-
-<img src="/dags/DAG3.png" width=40%>
-
-**DAG 5**
-
-<img src="/dags/DAG3.png" width=40%>
+| 2 | <img src="/dags/DAG2.png" width=40%> |
+| 3 | <img src="/dags/DAG3.png" width=40%> |
+| 4 | <img src="/dags/DAG4.png" width=40%> |
+| 5 | <img src="/dags/DAG5.png" width=40%> |
